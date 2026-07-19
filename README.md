@@ -1,1 +1,1 @@
-# StatCanada-ELT-pipeline-OLTP-with-Star-Schema
+# StatCanada-ELT-pipeline-OLAP-with-Star-Schema
